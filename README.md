@@ -12,14 +12,14 @@
 
 ## Требования
 
-- PHP 8.0+
+- PHP 8.3+
 - Composer
 
 ## Установка
 
 1. Установить клиент:
 ```bash
-composer require kiriunin/tinkoff-business-api
+composer require rumantic/tinkoff-business-api
 ```
 
 2. Создать токен в личном кабиненте Тинькофф Бизнес
