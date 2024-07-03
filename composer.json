@@ -1,10 +1,10 @@
 {
-  "name": "kiriunin/tinkoff-business-api",
+  "name": "rumantic/tinkoff-business-api",
   "description": "PHP client for Tinkoff Business API",
   "type": "library",
   "authors": [
     {
-      "name": "kiriunin",
+      "name": "kiriunin and rumantic",
       "email": "e@kiriunin.ru"
     }
   ],
